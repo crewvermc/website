@@ -7,3 +7,9 @@
 body {
 	background-image: url("https://media.discordapp.net/attachments/833959970419769364/968153819630436442/20220425_211724.png");
 }
+
+.ipc {
+	background-color: "#797EF6";
+	border-style: solid;
+	border-radius: 3px;
+}
