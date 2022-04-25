@@ -1,3 +1,9 @@
 .bg-1 {
 	background-image: url("https://media.discordapp.net/attachments/833959970419769364/968032792606822500/2022-04-25_13.11.59.png")
 }
+
+bg-text {
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
